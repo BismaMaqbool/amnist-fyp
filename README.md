@@ -14,8 +14,6 @@ AMNIST is a mobile app that helps users remember people and tasks using real-tim
 ## Tech Stack
 Flutter, Firebase (Firestore, Authentication, Cloud Storage), MobileFaceNet, OpenCV, Python
 
-## Screenshots
-Coming soon.
 
 ## Team
 - Bisma Maqbool
